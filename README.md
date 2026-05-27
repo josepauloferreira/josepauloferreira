@@ -1,5 +1,5 @@
 ## Hi there 👋
-![ok](ok.gif)
+![ok](ok.webp)
 
 Backend Software Engineer focused on Java and Spring Boot, building reliable REST APIs and backend systems with clear domain modeling, relational data persistence, automated testing, and reproducible development environments.
 
