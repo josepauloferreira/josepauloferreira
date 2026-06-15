@@ -13,12 +13,12 @@ Backend Software Engineer focused on Java and Spring Boot, building reliable RES
 
 
 ## Projects
-- [LedgerPay](https://github.com/phlmth/ledgerpay) — Digital wallet and transfer sandbox focused on financial domain modeling, value objects, automated testing, and the progressive design of a reliable backend system.
+- [LedgerPay](https://github.com/josepauloferreira/ledgerpay) — Digital wallet and transfer sandbox focused on financial domain modeling, value objects, automated testing, and the progressive design of a reliable backend system.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=phlmth&theme=transparent&hide_border=true&border_radius=0" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=josepauloferreira&theme=transparent&hide_border=true&border_radius=0" 
       alt="GitHub Streak"
     />
   </a>
