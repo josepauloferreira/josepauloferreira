@@ -1,13 +1,27 @@
-## Hi there 👋
-![ok](ok.webp)
+# José Paulo Ferreira
 
-Backend Software Engineer focused on Java and Spring Boot, building reliable REST APIs and backend systems with clear domain modeling, relational data persistence, automated testing, and reproducible development environments.
+Information Technology undergraduate focused on **backend software engineering**, building Java/Spring applications with an emphasis on reliability, data consistency, and clear domain modeling.
+
+I’m particularly interested in backend systems, relational databases, transactions, concurrency, and software architecture.
+
+## Currently
+
+* Building **[LedgerPay](https://github.com/josepauloferreira/ledgerpay)**, a transactional backend project focused on financial invariants, consistency, failure handling, retries, and concurrency.
+* Improving **[Threadly](https://github.com/josepauloferreira/threadly-api)**, a REST API built with Spring Boot, with ongoing work on architecture, testing, security, and documentation.
 
 ## Core Technologies
-- **Languages:** Java, SQL
-- **Backend:** Spring Boot, Spring Web, Spring Data JPA, Hibernate
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Testing:** JUnit, Mockito, AssertJ
-- **Tools:** Maven, Docker, Git, GitHub
-- **API Documentation:** OpenAPI / Swagger
 
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security
+- **Databases:** PostgreSQL, MySQL, Flyway
+- **Testing:** JUnit 5, MockMvc, AssertJ
+- **Tools:** Git, GitHub Actions, Maven, Docker, Linux
+- **Cloud:** AWS
+
+## Engineering Interests
+
+Backend Engineering · API Design · Relational Databases · Transactions · Concurrency · Testing · Software Architecture · Distributed Systems
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jpaulo-ferreira/) · [Email](mailto:josepauloferreira@proton.me)
